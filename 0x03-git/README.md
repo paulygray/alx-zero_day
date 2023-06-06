@@ -1,1 +1,1 @@
-Git repo-session
+Git and GitHub repo-session
